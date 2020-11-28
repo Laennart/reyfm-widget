@@ -7,7 +7,8 @@ The Widget shows the current track in one of our channels. You can select your p
 1. Go to [reyfm-widget.js](https://raw.githubusercontent.com/Laennart/reyfm-widget/main/reyfm-widget.js)
 2. Copy all the source code
 3. Create a new script in scriptable and paste the code
-4. Have fun 🎉
+4. Add the widget to your homescreen
+5. Have fun 🎉
 
 ## Configuration
 - You can choose a custom channel by setting the **WidgetParameters**:
