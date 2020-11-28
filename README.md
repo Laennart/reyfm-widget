@@ -1,5 +1,5 @@
 # REYFM Widget for iOS (Scriptable)
-Das Widget zeigt den aktuellen Track in einem unserer Channel an.
+The Widget shows the current track in one of our channels. You can select your preferred channel. See [Configuration](https://github.com/Laennart/reyfm-widget#configuration).
 
 ![Banner](https://raw.githubusercontent.com/Laennart/reyfm-widget/main/assets/banner.png)
 
@@ -9,10 +9,8 @@ Das Widget zeigt den aktuellen Track in einem unserer Channel an.
 3. Create a new script in scriptable and paste the code
 4. Have fun 🎉
 
-## Konfiguration
-- Über die **WidgetParameter** kann ein beliebiger Channel eingetragen werden:
-
-
+## Configuration
+- You can choose a custom channel by setting the **WidgetParameters**:
 ![WidgetParameter](https://raw.githubusercontent.com/Laennart/reyfm-widget/main/assets/WidgetParameters.png)
 
 ## Screenshots
